@@ -1,0 +1,28 @@
+name: OMEstudios
+favicon: null
+layout_spectrum: 0.4923405854497105
+typography_spectrum: 0.917260569287464
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.18155694752931595
+  lightness: 0.5821307976730168
+  saturation: 0.7240819022990763
+  rhythmicContrast: 0.2381169619038701
+purpose: []
